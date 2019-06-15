@@ -2,7 +2,7 @@
 
 For Fun Security ;)
 
-![Security in my Dream](the_scream)
+![Security in my Dream](the_scream.jpg)
 
 Job title : IT Security Consultant
 

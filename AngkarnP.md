@@ -3,8 +3,7 @@
 
 
 #### OTG #1 : Testing for logout functionality (OTG-SESS-006) 
-
+* testers check that the application automatically logs out a user when that user has been idle for a certain amount of time, ensuring that it is not possible to “reuse” the same session and that no sensitive data remains stored in the browser cache.
 
 #### OTG #2 : Test Session Timeout (OTG-SESS-007)
-
-หาก Timeout ไปแล้วต้อง clear cookie เพื่อป้องกันการนำ cookie ไปใช้แทนผู้ใช้งานจริง
+* testers check that the application automatically logs out a user when that user has been idle for a certain amount of time, ensuring that it is not possible to “reuse” the same session and that no sensitive data remains stored in the browser cache. 

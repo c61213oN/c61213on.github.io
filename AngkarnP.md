@@ -1,5 +1,5 @@
 # RequirementID : V5.1
-## Rqquirement Name : Input Validation Requirements
+## Requirement Name : Input Validation Requirements
 
 
 ### OTG #1 : Testing for SSI Injection (OTG-INPVAL-009)

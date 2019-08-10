@@ -1,8 +1,8 @@
-## RequirementID : V5.1
-### Requirement Name : Input Validation Requirements
+## RequirementID : V3.3 Session Logout and Timeout Requirements
+### Requirement Name : Session Logout and Timeout Requirements
 
 
-#### OTG #1 : Testing for SSI Injection (OTG-INPVAL-009)
+#### OTG #1 : Testing for logout functionality (OTG-SESS-006)
 
 
-#### OTG #2 : Testing for Buffer overflow (OTG-INPVAL-014)
+#### OTG #2 : Timeout (OTG-SESS-007)

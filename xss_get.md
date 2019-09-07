@@ -1,8 +1,11 @@
-## MR.ANGKARN  PUMMARIN
-## MR.RAKSAPON  LEELACHAT
-## MR.TANAPAD  ONSRI
+# How to protect XSS_GET from bWAPP (easy level)
 
-* How to protect XSS_GET from bWAPP (easy level)
+## Member group
+* MR.ANGKARN  PUMMARIN
+* MR.RAKSAPON  LEELACHAT
+* MR.TANAPAD  ONSRI
+
+
 
 ### Original Code
 
@@ -32,6 +35,8 @@
     }
 
     ?>
+    
+    
     
 ### Secure Coding
     

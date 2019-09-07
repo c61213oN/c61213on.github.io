@@ -2,7 +2,7 @@
 ## MR.RAKSAPON  LEELACHAT
 ## MR.TANAPAD  ONSRI
 
-* How to protect XSS_GET from bWAPP (easy)
+* How to protect XSS_GET from bWAPP (easy level)
 
 ### Original Code
 

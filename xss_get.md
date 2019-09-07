@@ -16,6 +16,14 @@
 ## Get Help RIPS
 ### related securing functions then use it :)
   ![Kahoot](xss_get02.png)
+  
+## Test Vulnerability XSS
+### Input <script>alert(1);</script> 
+  ![Kahoot](xss_get03.png)
+  
+## Oh!!! 
+### Alert
+  ![Kahoot](xss_get04.png)
 
 ## let's fix it
 
@@ -80,3 +88,7 @@
     }
 
     ?>
+    
+## Force will be with you  
+### Complete
+  ![Kahoot](xss_get05.png)

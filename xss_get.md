@@ -5,6 +5,10 @@
 * MR.RAKSAPON  LEELACHAT
 * MR.TANAPAD  ONSRI
 
+## Oh WOW!!!  
+### bWAPP XSS_GET
+  ![Kahoot](xss_get00.png)
+
 ## Test Vulnerability XSS
 ### Input <script>alert(1);</script> 
   ![Kahoot](xss_get03.png)
@@ -13,9 +17,6 @@
 ### Alert
   ![Kahoot](xss_get04.png)
 
-## Oh WOW!!!  
-### bWAPP XSS_GET
-  ![Kahoot](xss_get00.png)
 
 ## Scan with RIPS 
 ### Focus Cross-Site Scipting Topic

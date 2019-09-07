@@ -5,8 +5,8 @@
 * MR.RAKSAPON  LEELACHAT
 * MR.TANAPAD  ONSRI
 
-## Oh WOW!!!  bWAPP XSS_GET
-### Scan with RIPS and Focus Cross-Site Scipting Topic
+## Oh WOW!!!  
+### bWAPP XSS_GET
   ![Kahoot](xss_get00.png)
 
 ## Scan with RIPS 
@@ -14,8 +14,7 @@
   ![Kahoot](xss_get01.png)
   
 ## Get Help RIPS
-
-### Scan with RIPS and Focus Cross-Site Scipting Topic
+### related securing functions then use it :)
   ![Kahoot](xss_get02.png)
 
 ## let's fix it

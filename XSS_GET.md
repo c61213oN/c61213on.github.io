@@ -5,7 +5,8 @@
 * How to protect XSS_GET from bWAPP (easy)
 
 ### Original Code
- <?php
+
+    <?php
 
     if(isset($_GET["firstname"]) && isset($_GET["lastname"]))
     {   

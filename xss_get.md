@@ -5,6 +5,14 @@
 * MR.RAKSAPON  LEELACHAT
 * MR.TANAPAD  ONSRI
 
+## Test Vulnerability XSS
+### Input <script>alert(1);</script> 
+  ![Kahoot](xss_get03.png)
+  
+## Oh!!! 
+### Alert
+  ![Kahoot](xss_get04.png)
+
 ## Oh WOW!!!  
 ### bWAPP XSS_GET
   ![Kahoot](xss_get00.png)
@@ -16,14 +24,7 @@
 ## Get Help RIPS
 ### related securing functions then use it :)
   ![Kahoot](xss_get02.png)
-  
-## Test Vulnerability XSS
-### Input <script>alert(1);</script> 
-  ![Kahoot](xss_get03.png)
-  
-## Oh!!! 
-### Alert
-  ![Kahoot](xss_get04.png)
+
 
 ## let's fix it
 
@@ -88,7 +89,11 @@
     }
 
     ?>
-    
+ 
+## fix is correct  
+### Complete
+  ![Kahoot](xss_get04.1.png)
+
 ## Force will be with you  
 ### Complete
   ![Kahoot](xss_get05.png)
